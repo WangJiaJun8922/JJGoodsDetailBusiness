@@ -1,0 +1,15 @@
+PODS:
+  - CTMediator (0.0.3)
+  - JJGoodsDetailBusinessCategroy (0.0.1):
+    - CTMediator
+
+DEPENDENCIES:
+  - JJGoodsDetailBusinessCategroy
+
+SPEC CHECKSUMS:
+  CTMediator: c9a1203561e2232cb9a72822659159a02ae3cf20
+  JJGoodsDetailBusinessCategroy: 6d4b0229fc49339143f48d5127b4f3bd314ca6a0
+
+PODFILE CHECKSUM: d40f55ce2d1d3af8674ff733a0e681e055e48ef3
+
+COCOAPODS: 1.2.0.beta.3
