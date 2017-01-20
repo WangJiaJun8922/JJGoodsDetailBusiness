@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '189B67266D7143EFF4C9A176DBA0A49F'
-               BlueprintName = 'JJGoodsDetailBusinessCategroy'
+               BlueprintIdentifier = 'FC4F2EFB06E53ADD8B8304BEBA5DBF3D'
+               BlueprintName = 'JJGoodsConfirmBusinessCategory'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libJJGoodsDetailBusinessCategroy.a'>
+               BuildableName = 'libJJGoodsConfirmBusinessCategory.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

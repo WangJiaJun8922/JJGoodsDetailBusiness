@@ -30,7 +30,7 @@
 			<key>License</key>
 			<string>MIT</string>
 			<key>Title</key>
-			<string>JJGoodsDetailBusinessCategroy</string>
+			<string>JJGoodsConfirmBusinessCategory</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>

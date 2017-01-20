@@ -7,6 +7,7 @@
 //
 
 #import "JJGoodsDetailViewController.h"
+#import <JJGoodsDetailBusinessCategroy/CTMediator+JJGoodsDetail.h>
 
 @interface JJGoodsDetailViewController ()
 
@@ -54,6 +55,7 @@
 #pragma mark - event
 - (void)didClickBuyButton:(UIButton *)button
 {
+    [[CTMediator sharedInstance] ]
 //    UIViewController *confirmOrderVC = [[CTMediator sharedInstance] confirmOrderViewControllerWithGoodsId:self.goodsId
 //                                                                                                goodsName:self.goodsName
 //                                                                                          ConfirmComplete:^{

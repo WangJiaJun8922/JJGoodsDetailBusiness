@@ -9,7 +9,7 @@ target 'JJGoodsDetailBusiness' do
   # use_frameworks!
 
   # Pods for TAGoodsDetail
-  pod "JJGoodsDetailBusinessCategroy"
+  pod "JJGoodsConfirmBusinessCategory"
   target 'JJGoodsDetailBusinessTests' do
     inherit! :search_paths
     # Pods for testing
